@@ -1,7 +1,7 @@
+<div style="display:none">
+   안녕하세요.
+</div>
 <font class="papago-parent">
-  <font class="papago-source" style="display:none;">
-    - 👋 Hi, I’m @euterpe1228
-  </font>
   - 👋 안녕 @euterpe1228
 </font>
 <font class="papago-parent">
